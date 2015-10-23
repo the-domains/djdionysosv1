@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'http://images.forbes.com/media/assets/forbes_1200x1200.jpg'
     thumbnail_width: 1200
 publisher:
-  url: 'http://cointelegraph.com'
   name: CoinTelegraph
-  favicon: 'http://cointelegraph.com/favicon.png'
   domain: cointelegraph.com
+  url: 'http://cointelegraph.com'
+  favicon: 'http://cointelegraph.com/favicon.png'
 keywords:
   - payments
   - w3c
@@ -32,13 +32,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://cointelegraph.com/news/115459/w3c-to-raise-payment-standards-for-better-adoption-of-distributed-ledger-technologies-such-as-bitcoin-and-ripple'
 title: W3C to Raise Payment Standards for Better Adoption of Distributed Ledger Technologies such as Bitcoin and Ripple
-datePublished: '2015-10-23T22:28:44.606Z'
-dateModified: '2015-10-23T22:28:14.776Z'
+datePublished: '2015-10-23T22:35:22.258Z'
+dateModified: '2015-10-23T22:29:14.665Z'
 sourcePath: _posts/2015-10-23-w3c-to-raise-payment-standards-for-better-adoption-of-distri.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
