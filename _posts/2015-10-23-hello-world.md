@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This is the BASE
-datePublished: '2015-10-23T22:22:45.566Z'
-dateModified: '2015-10-23T22:08:56.818Z'
+datePublished: '2015-10-23T22:23:21.085Z'
+dateModified: '2015-10-23T22:23:16.984Z'
 title: Hello World
 authors: []
 publisher:
