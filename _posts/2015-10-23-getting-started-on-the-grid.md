@@ -1,17 +1,18 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2015-10-23T22:09:47.738Z'
-dateModified: '2015-10-23T22:09:41.577Z'
-sourcePath: _posts/2015-10-23-getting-started-on-the-grid.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
+description: Click the pencil icon in the bottom left to read more...
+datePublished: '2015-10-23T22:12:16.412Z'
+dateModified: '2015-10-23T22:12:10.939Z'
+title: Getting Started on The Grid
+author: []
+sourcePath: _posts/2015-10-23-getting-started-on-the-grid.md
+published: true
 authors: []
 publisher:
   name: null
@@ -22,13 +23,10 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+# 
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+## 
 
-## Creating a Site
-
-From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
 
 The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
