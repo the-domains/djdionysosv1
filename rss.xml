@@ -4,7 +4,7 @@
         <description><![CDATA[DJ Dionysos The Incredible ]]></description>
         <link>https://thegrid.ai/djdionysosv1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 22:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 22:25:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/djdionysosv1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/djdionysosv1/hello-world/index.html</link>
             <guid isPermaLink="false">99310be4-6a26-4643-9f6f-d8530ba23167</guid>
             <pubDate>Fri, 23 Oct 2015 22:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech stocks lead Wall Street higher; S&P 500 erases 2015 loss - The Economic Times]]></title>
+            <description><![CDATA[<article><h1>Tech stocks lead Wall Street higher; S&P 500 erases 2015 loss - The Economic Times</h1><p>A tech share rally drove US stocks up sharply for a second day on Friday as earnings from companies including Microsoft beat analysts' expectations, while healthcare shares rebounded from recent losses. The gains left the S&P 500 in positive territory for the year and above its 200-day moving average for the first time since Aug.</p><img src="http://economictimes.indiatimes.com/thumb/msid-49512056,width-600,resizemode-4/tech-stocks-lead-wall-street-higher-sp-500-erases-2015-loss.jpg"></article>]]></description>
+            <link>http://news.google.com/news/url?sa=T&amp;ct2=us&amp;fd=S&amp;url=http://economictimes.indiatimes.com/markets/stocks/news/tech-stocks-lead-wall-street-higher-sp-500-erases-2015-loss/articleshow/49512052.cms&amp;cid=52778976515942&amp;ei=pLIqVuHBM8zLefDApKgH&amp;usg=AFQjCNFFYN6iUmz4FbaOxp6AikaxRMPatA</link>
+            <guid isPermaLink="false">d4d1d3bf-7d78-47f0-92b0-7486aadf23fd</guid>
+            <pubDate>Fri, 23 Oct 2015 22:25:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
